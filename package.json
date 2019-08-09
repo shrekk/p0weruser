@@ -15,7 +15,7 @@
   "license":         "GPL-3.0",
   "dependencies":    {
     "chart.js":     "^2.8.0",
-    "core-js":      "^2.6.5",
+    "core-js":      "^3.2.0",
     "moment":       "^2.24.0",
     "simplebar":    "^2.6.1",
     "tesseract.js": "^1.0.14"
